@@ -1,0 +1,30 @@
+,Case status,Number of Cases
+0,Appointment Scheduled,62
+1,Call Later - Customer asked to call back,1
+2,Call Later - Customer not answering/available,44
+3,Call Later - Customer phone switched off,13
+4,Cancelled by insurance company - Customer cancelled policy,5
+5,Closed - submitted to insurance,641
+6,Customer already completed MER - BY Other TPA,45
+7,Customer has cancelled/wants to cancel the policy,12
+8,Customer is not cooperating,4
+9,Customer is not interested,9
+10,Escalated - Customer Not Interested,1
+11,Escalated - Customer Not Responding / Wrong Number,2
+12,Escalated - Customer Not Responding/Wrong Number,3
+13,Escalated - Other TPA Already Completed,5
+14,Escalated Customer Not Interested,4
+15,Escalated Other TPA Completed,50
+16,Escalated to Insurance Co - Customer Not Co-operating,10
+17,Escalated to Insurance Co - Customer Not Interested,4
+18,Escalated to Insurance Co - Customer Not Responding/Wrong Number,11
+19,Escalated to Insurance Co - Other TPA Completed,35
+20,Escalated to insurance company - customer not cooperating,6
+21,Escalated to insurance company - customer not interested,4
+22,Escalated to insurance company - customer not responding/wrong number,23
+23,Escalated to insurer - Customer not cooperating,3
+24,MER Completed - QC Pending,9
+25,Missed Appointment - Rescheduled Appointment,1
+26,Network Issue - Customer,9
+27,Others out of scope,2
+28,Wrong/Invalid number,17
